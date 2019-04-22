@@ -1,0 +1,22 @@
+{
+    "leads": [
+        {"id": 1, "full_name": "Lead1", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 2, "full_name": "Lead2", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 3, "full_name": "Lead3", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 4, "full_name": "Lead4", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 5, "full_name": "Lead5", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 6, "full_name": "Lead6", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 7, "full_name": "Lead7", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 8, "full_name": "Lead8", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 9, "full_name": "Lead9", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 10, "full_name": "Lead10", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 11, "full_name": "Lead11", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 12, "full_name": "Lead12", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 13, "full_name": "Lead13", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 14, "full_name": "Lead14", "phone": "+994559617925", "social": "Facebook", "type": "leads"},
+        {"id": 15, "full_name": "Lead15", "phone": "+994559617925", "social": "Facebook", "type": "leads"}
+    ],
+    "calls": [],
+    "recalls": [],
+    "meetings": []
+}
